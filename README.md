@@ -1,5 +1,5 @@
 ### Hi, I'm Anna e só! 👋
-Here's some quick facts about me:
+Quick facts about me:
 
 <details>
   <summary align="center"><b>🔭 I'm tech generalist passionate about OSS</b></summary>
