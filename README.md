@@ -35,8 +35,8 @@ Quick facts about me:
   <p>
     🐘 I'm an indie web enthusiast (so much I'm planning to write my undergraduate thesis about it).
     <ul>
-        <li><a href="https://masto.donte.com.br/@Anna">I'm one of the moderators of Mastodonte, a Brazilian Mastodon instance</a></li>
-        <li><a href="https://friend.camp/@anna">I'm also one of the residents of Friend Camp, another cool Mastodon instance</a></li>
+        <li><a href="https://masto.donte.com.br/@Anna" rel="me">I'm one of the moderators of Mastodonte, a Brazilian Mastodon instance</a></li>
+        <li><a href="https://friend.camp/@anna" rel="me">I'm also one of the residents of Friend Camp, another cool Mastodon instance</a></li>
     </ul>
  </p>
   <p>🐦 I'm also on Twitter — <a href="https://twitter.com/annaeso">you can @ me at @annaeso</a>.</p>
