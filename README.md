@@ -12,7 +12,7 @@ Quick facts about me:
 
 <details>
   <summary align="center">🧑‍🦯 <b>I see things from a different point of view</b></summary>
-  <p> 📜 Yes, my name is Anna e só. Yes, it <i>is</i> my real name. No, I don't have a legal name, I only have illegal ones.</p>
+  <p> 📜 Yes, my name is Anna e só. Yes, it <i>is</i> my real name.</p>
   <p>✨ I'm non-binary and my pronouns are <code>they/them</code> in English and <code>a/ela/a</code> in Portuguese. Here's how to use them:</p>
   <details>
     <summary align="center"><b>English</b></summary>
