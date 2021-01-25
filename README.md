@@ -5,7 +5,7 @@ Quick facts about me:
   <summary align="center"><b>🔭 I'm a tech generalist passionate about OSS</b></summary>
   <p>🌱 I started my career as an Outreachy intern with the Wikimedia community in December 2017. I led a project called <b>Translation outreach: User guides on MediaWiki.org</b> that would change Wikimedia's technical writing culture and inspire new and old technical writers. <a href="https://wikimediafoundation.org/news/2018/02/23/improving-mediawiki-documentation/">Here's a report published on the official Wikimedia Foundation blog about my project</a> — I'm really proud of it!</p>
   <p>🖼️ I've been described as a "flexible professional that is always open to learn something new". Other tech professionals say that I add a lot of value to diverse teams in many different contexts, which is a quite difficult thing to achieve. Some friends even say that they don't think it's fair that they are nicknamed Google when people like me exist.</p>
-  <p>💪🏻 Today I am the main maintainer of <a href="https://github.com/opencollective">@OpenCollective</a>'s documentation and an <a href="https://github.com/outreachy">@Outreachy</a> organizer.</p>
+  <p>💪🏻 Today I am an <a href="https://github.com/outreachy">@Outreachy</a> organizer and I have my own consultancy company</p>
   <p>🎙️ I do a lot of public speaking — from talks to workshops and other interactive sessions. I love connecting with people and helping them discover something new!</p>
   <p>🏆 One of my proudest achievements is being the first Brazilian to win a Linux Foundation Training (LiFT) scholarship in the Women in Open Source category.</p>
 </details>
