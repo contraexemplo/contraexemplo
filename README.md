@@ -15,11 +15,11 @@ Quick facts about me:
   <p>✨ I'm non-binary and my pronouns are <code>they/them</code> in English and <code>a/ela/a</code> in Portuguese. Here's how to use them:</p>
   <details>
     <summary align="center"><b>English</b></summary>
-    <p>This is Anna e só. <i>They</i> are a tech generalist passionate about OSS. They are currently the main maintainer of Open Collective's documentation and an Outreachy organizer. You can always ask <i>them</i> for help — they will be happy to assist you.</p>
+    <p>This is Anna e só. <i>They</i> are a tech generalist passionate about OSS. They're an Outreachy organizer. You can always ask <i>them</i> for help — they will be happy to assist you.</p>
   </details>
     <details>
     <summary align="center"><b>Portuguese</b></summary>
-      <p>Essa é <i>a</i> Anna e só. <i>Ela</i> é uma generalista de tecnologia apaixonad<i>a</i> por projetos abertos. Atualmente ela é a principal mantenedora da documentação do Open Collective e uma das pessoas organizadoras do Outreachy. Você sempre pode pedir a sua ajuda — ela ficará feliz em ajudá-lo. </p>
+      <p>Essa é <i>a</i> Anna e só. <i>Ela</i> é uma consultora de TI apaixonad<i>a</i> por projetos abertos. Ela é uma das pessoas organizadoras do Outreachy. Você sempre pode pedir a sua ajuda — ela ficará feliz em te ajudar. </p>
   </details>
   <p>🦯 I'm partially sighted — sometimes I use a white cane and sometimes I don't, but I'm always using some kind of assistive technology.</p>
 </details>
