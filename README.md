@@ -7,7 +7,6 @@ Quick facts about me:
   <p>🖼️ I've been described as a "flexible professional that is always open to learn something new". Other tech professionals say that I add a lot of value to diverse teams in many different contexts, which is a quite difficult thing to achieve. Some friends even say that they don't think it's fair that they are nicknamed Google when people like me exist.</p>
   <p>💪🏻 Today I am an <a href="https://github.com/outreachy">@Outreachy</a> organizer and I have my own consultancy company.</p>
   <p>🎙️ I do a lot of public speaking — from talks to workshops and other interactive sessions. I love connecting with people and helping them discover something new!</p>
-  <p>🏆 One of my proudest achievements is being the first Brazilian to win a Linux Foundation Training (LiFT) scholarship in the Women in Open Source category.</p>
 </details>
 
 <details>
