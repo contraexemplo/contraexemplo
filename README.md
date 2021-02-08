@@ -29,8 +29,8 @@ Quick facts about me:
   <summary align="center">💾 <b>I'm a child of the Internet</b></summary>
   <p>🖊️ I love writing, I love blogs and I love RSS feeds (please share yours with me).
   <ul>
-    <li><a href="https://anna.flourishing.stream/">Here you can read some snippets of what's on my mind</a></li>
-    <li><a href="https://til.flourishing.stream/">This one is for days when I'm one of the lucky 10,000</a></li>
+    <li><a href="https://anna.flourishing.stream/tech-reflections">A section that answers the question. "When I look myself in the mirror, what kind of professional do I see?"</a></li>
+    <li><a href="https://anna.flourishing.stream/today-i-learned">This section is for days when I'm one of the lucky 10,000</a></li>
   </ul></p>
   <p>
     🐘 I'm an indie web enthusiast (so much I'm planning to write my undergraduate thesis about it).
