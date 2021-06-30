@@ -4,6 +4,6 @@
 
 🌱 I switched careers into technology back in 2017, once I was selected to the internship program I currently help organize.
 
-🌳 Over the last few years I've worked with the **Wikimedia community**, **MediaLab/UFG**, **LAPPIS/UnB**, and **Open Collective**. I was one of the first technical writers to be selected (and successfully complete) **Google Season of Docs**.
+🌳 Over the last few years I've worked with the **Wikimedia community**, **MediaLab/UFG**, **LAPPIS/UnB**, and **Open Collective**.
 
 🌿 My pronouns are they/them and a/ela/a.
